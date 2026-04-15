@@ -1,4 +1,4 @@
-# FireStorm — Writeup complet du challenge
+# FireStorm challenge
 
 ## Introduction
 
